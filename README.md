@@ -1,4 +1,4 @@
-Hi 👋 My name is Shridhar Kannan
+Hi 👋 My name is Shridhar AKA Smithsarenza
 ================================
 
 Web Developer
