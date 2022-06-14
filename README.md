@@ -4,8 +4,8 @@ Hi 👋 My name is Shridhar AKA Smithsarenza
 Web Developer
 -------------
 
-* 🌍  I'm based in India, Mumbai
-* ✉️  You can contact me at [shreedharking@outlook.com](mailto:shreedharking@outlook.com)
+* 🌍  I'm based in Mumbai, India 
+* ✉️  You can contact me at [shreedharking@outlook.com](mailto:shreedharking@outlook.com)
 * 🧠  I'm learning Javascript
 * ⚡  A Gamer
 
